@@ -105,7 +105,8 @@ It includes data cleaning, preprocessing, visualization, statistical insights, a
 ⚙️ How to Run the Project
 🔧 1. Clone this repository
 git clone https://github.com/satyaS567/WeatherDataAnalysis.git
-cd Weather-Data-Analysis
+
+cd WeatherDataAnalysis
 
 📦 2. Install dependencies
 pip install -r requirements.txt
