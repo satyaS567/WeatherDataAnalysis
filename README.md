@@ -1,5 +1,5 @@
 🌦️ Weather Data Analysis Project
-📘 Overview
+
 
 This project provides an in-depth Exploratory Data Analysis (EDA) and predictive modeling on a weather dataset using Python.
 It includes data cleaning, preprocessing, visualization, statistical insights, and linear regression modeling to uncover meaningful weather patterns and relationships between variables like temperature, humidity, and wind speed.
@@ -82,8 +82,11 @@ It includes data cleaning, preprocessing, visualization, statistical insights, a
 8️⃣ Key Insights
 
   ✅ Temperature shows strong seasonal variation (warmest mid-year)
+  
   ✅ Humidity has a negative correlation with temperature
+  
   ✅ Wind speed shows weak correlation with temperature
+  
   ✅ Model gives moderate accuracy in temperature prediction
 
 📊 Example Visualizations
@@ -104,6 +107,7 @@ It includes data cleaning, preprocessing, visualization, statistical insights, a
 
 ⚙️ How to Run the Project
 🔧 1. Clone this repository
+
 git clone https://github.com/satyaS567/WeatherDataAnalysis.git
 
 cd WeatherDataAnalysis
