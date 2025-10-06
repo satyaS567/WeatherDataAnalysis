@@ -21,6 +21,7 @@ It includes data cleaning, preprocessing, visualization, statistical insights, a
   7. scikit-learn – machine learning model (Linear Regression)
 
 🚀 Key Steps in the Project
+
 1️⃣ Data Loading & Inspection
 
   Loads dataset (weatherHistory.csv)
@@ -106,22 +107,27 @@ It includes data cleaning, preprocessing, visualization, statistical insights, a
   (Plots generated using Matplotlib and Seaborn)
 
 ⚙️ How to Run the Project
+
 🔧 1. Clone this repository
 
-git clone https://github.com/satyaS567/WeatherDataAnalysis.git
+  git clone https://github.com/satyaS567/WeatherDataAnalysis.git
 
-cd WeatherDataAnalysis
+  cd WeatherDataAnalysis
 
 📦 2. Install dependencies
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 ▶️ 3. Run the script
-python weather_analysis.py
+  python weather_analysis.py
 
 📈 Sample Model Output
+
 --- Linear Regression Model ---
+
 R² Score: 0.742
+
 RMSE: 1.86
+
 Coefficients: {'Humidity': -12.57, 'Wind_Speed_km_h': 0.22}
 
 🎯 Conclusion
